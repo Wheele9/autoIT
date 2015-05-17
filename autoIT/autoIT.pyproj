@@ -12,6 +12,7 @@
     <OutputPath>.</OutputPath>
     <Name>autoIT</Name>
     <RootNamespace>autoIT</RootNamespace>
+    <IsWindowsApplication>True</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
